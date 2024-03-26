@@ -1,0 +1,161 @@
+{
+    "": {
+        "domain": "nbdime",
+        "language": "fr-FR",
+        "plural_forms": "nplurals=2; plural=(n > 1);",
+        "version": "jupyterlab"
+    },
+    "(\u2026$ unchanged lines\u2026)": [
+        "(\u2026$ lignes inchang\u00e9es\u2026)"
+    ],
+    "Added on both sides": [
+        "Ajout\u00e9 des deux c\u00f4t\u00e9s"
+    ],
+    "Cell added locally": [
+        "Cellule ajout\u00e9e localement"
+    ],
+    "Cell added remotely": [
+        "Cellule ajout\u00e9e \u00e0 distance"
+    ],
+    "Cell deleted locally": [
+        "Cellule supprim\u00e9e localement"
+    ],
+    "Cell deleted remotely": [
+        "Cellule supprim\u00e9e \u00e0 distance"
+    ],
+    "Cell has conflicting IDs! Use a text editor to edit the value (base value kept).": [
+        "La cellule a des ID en conflit ! Utilisez un \u00e9diteur de texte pour modifier la valeur (valeur de base conserv\u00e9e)."
+    ],
+    "Checkpoint": [
+        "Point de contr\u00f4le"
+    ],
+    "Clear all cell outputs": [
+        "Effacer toutes les sorties de cellules"
+    ],
+    "Clear conflicted cell outputs": [
+        "Effacer les sorties de cellules en conflit"
+    ],
+    "Clear outputs": [
+        "Effacer les sorties"
+    ],
+    "Conflicting cell operations": [
+        "Op\u00e9rations de cellules en conflit"
+    ],
+    "Delete cell": [
+        "Supprimer la cellule"
+    ],
+    "Deleted on both sides": [
+        "Supprim\u00e9 des deux c\u00f4t\u00e9s"
+    ],
+    "Diff checkpoint: %1": [
+        "Diff avec le point de contr\u00f4le : %1"
+    ],
+    "Diff git: %1": [
+        "Diff Git: %1"
+    ],
+    "Diff: %1 \u2194 %2": [
+        "Diff: %1 \u2194 %2"
+    ],
+    "Display nbdiff between two notebooks": [
+        "Afficher le diff entre deux notebooks"
+    ],
+    "Display nbdiff from checkpoint to currently saved version": [
+        "Afficher le diff entre le point de contr\u00f4le et la version actuellement enregistr\u00e9e"
+    ],
+    "Display nbdiff from git HEAD to currently saved version": [
+        "Afficher le diff entre la t\u00eate de la branche et la version actuellement enregistr\u00e9e"
+    ],
+    "Execution count will be cleared.": [
+        "Le compteur d'ex\u00e9cutions sera effac\u00e9."
+    ],
+    "Export diff": [
+        "Exporter le diff"
+    ],
+    "Failed to fetch diff: %1": [
+        "Impossible de r\u00e9cup\u00e9rer le diff: %1"
+    ],
+    "Hide unchanged cells": [
+        "Masquer les cellules inchang\u00e9es"
+    ],
+    "Local: '%1'\nRemote: '%2'": [
+        "Local: '%1'\nDistant : '%2'"
+    ],
+    "Local: git HEAD\nRemote: '%1'": [
+        "Local: git HEAD\nDistant: '%1'"
+    ],
+    "Local: latest checkpoint\nRemote: '%1'": [
+        "Local: dernier point de contr\u00f4le\nDistant: '%1'"
+    ],
+    "Mark resolved": [
+        "Marquer comme r\u00e9solu"
+    ],
+    "Metadata changed": [
+        "M\u00e9tadonn\u00e9es modifi\u00e9es"
+    ],
+    "Notebook Git diff": [
+        "Diff du notebook"
+    ],
+    "Notebook checkpoint diff": [
+        "Diff notebook avec le point de contr\u00f4le"
+    ],
+    "Notebook diff": [
+        "Diff du notebook"
+    ],
+    "Notebook metadata changed": [
+        "M\u00e9tadonn\u00e9es du notebook modifi\u00e9es"
+    ],
+    "Notebook metadata unchanged": [
+        "M\u00e9tadonn\u00e9es du notebook inchang\u00e9es"
+    ],
+    "Output added": [
+        "Sortie ajout\u00e9e"
+    ],
+    "Output deleted": [
+        "Sortie supprim\u00e9e"
+    ],
+    "Outputs changed": [
+        "Sorties modifi\u00e9es"
+    ],
+    "Outputs conflicted": [
+        "Sorties en conflit"
+    ],
+    "Outputs unchanged": [
+        "Sorties inchang\u00e9es"
+    ],
+    "Render": [
+        "Rendu"
+    ],
+    "Resolve Conflict": [
+        "R\u00e9soudre le conflit"
+    ],
+    "Show source": [
+        "Affcher la source"
+    ],
+    "Toggle locked scrolling": [
+        "Verrouiller/D\u00e9verrouiller le d\u00e9filement"
+    ],
+    "Trust": [
+        "Faire confiance"
+    ],
+    "Unable to query nbdime API. Is the server extension enabled?": [
+        "Impossible d'interroger l'API nbdime. L'extension serveur est-elle activ\u00e9e ?"
+    ],
+    "Value missing": [
+        "Valeur manquante"
+    ],
+    "schema\u0004Nbdime": [
+        "Nbdime"
+    ],
+    "schema\u0004Settings for the nbdime extension.": [
+        "Param\u00e8tres de l'extension nbdime."
+    ],
+    "settings\u0004Hide Unchanged Cells": [
+        "Masquer les cellules inchang\u00e9es"
+    ],
+    "settings\u0004Nbdime": [
+        "Nbdime"
+    ],
+    "settings\u0004Whether unchanged cells should be hidden by default.": [
+        "Les cellules non modifi\u00e9es doivent-elles \u00eatre masqu\u00e9es par d\u00e9faut ou non."
+    ]
+}

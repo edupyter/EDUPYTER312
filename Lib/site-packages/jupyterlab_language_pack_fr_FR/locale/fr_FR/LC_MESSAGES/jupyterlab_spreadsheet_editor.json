@@ -1,0 +1,111 @@
+{
+    "": {
+        "domain": "jupyterlab_spreadsheet_editor",
+        "language": "fr-FR",
+        "plural_forms": "nplurals=2; plural=(n > 1);",
+        "version": "jupyterlab"
+    },
+    " and %1 column": [
+        " et %1 colonne",
+        " et %1 colonnes"
+    ],
+    "%1 row": [
+        "%1 ligne",
+        "%1 lignes"
+    ],
+    ", %1 column": [
+        ", colonne %1",
+        ", %1 colonnes"
+    ],
+    "CSV File": [
+        "Fichier CSV"
+    ],
+    "Copy": [
+        "Copier"
+    ],
+    "Create a new CSV file": [
+        "Cr\u00e9er un nouveau fichier CSV"
+    ],
+    "Create a new TSV file": [
+        "Cr\u00e9er un nouveau fichier TSV"
+    ],
+    "Delete Column": [
+        "Supprimer cette colonne"
+    ],
+    "Delete Row": [
+        "Supprimer cette ligne"
+    ],
+    "First row as a header": [
+        "La premi\u00e8re ligne comprend les en-t\u00eates"
+    ],
+    "Fit columns width": [
+        "Ajuster la largeur des colonnes"
+    ],
+    "Freeze the initial columns (up to the selected column)": [
+        "Geler les colonnes initiales (jusqu'\u00e0 la colonne s\u00e9lectionn\u00e9e)"
+    ],
+    "Insert Column To The Left": [
+        "Ins\u00e9rer une colonne \u00e0 gauche"
+    ],
+    "Insert Column To The Right": [
+        "Ins\u00e9rer une colonne \u00e0 droite"
+    ],
+    "Insert Row Above": [
+        "Ins\u00e9rer une ligne au-dessus"
+    ],
+    "Insert Row Below": [
+        "Ins\u00e9rer une ligne au-dessous"
+    ],
+    "Insert a column at the end": [
+        "Ins\u00e9rer une colonne \u00e0 la fin"
+    ],
+    "Insert a row at the end": [
+        "Ins\u00e9rer une ligne \u00e0 la fin"
+    ],
+    "New CSV File": [
+        "Nouveau fichier CSV"
+    ],
+    "New TSV File": [
+        "Nouveau fichier TSV"
+    ],
+    "Other": [
+        "Autres"
+    ],
+    "Paste": [
+        "Coller"
+    ],
+    "Redo": [
+        "R\u00e9tablir"
+    ],
+    "Remove the last column": [
+        "Supprimer la derni\u00e8re colonne"
+    ],
+    "Remove the last row": [
+        "Supprimer la derni\u00e8re ligne"
+    ],
+    "Selected %1 row": [
+        "%1 ligne s\u00e9lectionn\u00e9e",
+        "S\u00e9lectionn\u00e9 %1 lignes"
+    ],
+    "Show/hide column types bar": [
+        "Afficher/masquer la barre des types de colonnes"
+    ],
+    "Show/hide row numbers": [
+        "Afficher/masquer les num\u00e9ros de ligne"
+    ],
+    "TSV File": [
+        "Fichier TSV"
+    ],
+    "Undo": [
+        "Annuler"
+    ],
+    "Unfreeze frozen column": [
+        "D\u00e9bloquer la colonne gel\u00e9e"
+    ],
+    "schema\u0004JupyterLab Spreadsheet Editor": [
+        "\u00c9diteur JupyterLab de feuille de calcul"
+    ],
+    "schema\u0004JupyterLab spreadsheet editor settings.": [
+        "Param\u00e8tres de l'\u00e9diteur JupyterLab de feuilles de calcul."
+    ]
+}

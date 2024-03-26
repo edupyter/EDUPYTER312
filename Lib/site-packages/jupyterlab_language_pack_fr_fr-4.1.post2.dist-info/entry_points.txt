@@ -1,0 +1,2 @@
+[jupyterlab.languagepack]
+fr_FR = jupyterlab_language_pack_fr_FR

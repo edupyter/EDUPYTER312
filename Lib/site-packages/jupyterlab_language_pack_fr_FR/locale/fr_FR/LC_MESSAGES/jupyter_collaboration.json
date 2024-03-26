@@ -1,0 +1,92 @@
+{
+    "": {
+        "domain": "jupyter_collaboration",
+        "language": "fr-FR",
+        "plural_forms": "nplurals=2; plural=(n > 1);",
+        "version": "jupyterlab"
+    },
+    "Anyone with this link has full access to your notebook server, including all your files!": [
+        "Toute personne ayant ce lien aura un acc\u00e8s complet \u00e0 votre serveur Jupyter, y compris \u00e0 tous vos fichiers!"
+    ],
+    "Collaboration": [
+        "Collaboration"
+    ],
+    "Copy Link": [
+        "Copier le lien"
+    ],
+    "Copy the link to the Jupyter Server": [
+        "Copier le lien vers le serveur Jupyter"
+    ],
+    "Currently, there is no way to revoke access other than shutting down your server.": [
+        "Actuellement, il n'y a aucun moyen de r\u00e9voquer l'acc\u00e8s autre que l'arr\u00eat de votre serveur."
+    ],
+    "Do you want to overwrite the file or reload it?": [
+        "Voulez-vous \u00e9craser le fichier ou le recharger ?"
+    ],
+    "Document session error": [
+        "Erreur de session du document"
+    ],
+    "File changed": [
+        "Fichier modifi\u00e9"
+    ],
+    "Generate a Shared Link": [
+        "Cr\u00e9er un lien de partage"
+    ],
+    "Include token in URL": [
+        "Inclure le jeton d'acc\u00e8s dans l'URL"
+    ],
+    "Ok": [
+        "Ok"
+    ],
+    "Online Collaborators": [
+        "Collaborateurs en ligne"
+    ],
+    "Only authenticated users will be able to use this link.": [
+        "Seuls les utilisateurs authentifi\u00e9s pourront utiliser ce lien."
+    ],
+    "Only users with `access:servers` permissions for this server will be able to use this link.": [
+        "Seuls les utilisateurs ayant les permissions `access:servers` pour ce serveur seront en mesure d'utiliser ce lien."
+    ],
+    "Please be careful who you share it with.": [
+        "Soyez prudent lors du partage de ce lien."
+    ],
+    "Security warning!": [
+        "Avertissement de s\u00e9curit\u00e9!"
+    ],
+    "Server": [
+        "Serveur"
+    ],
+    "Share Jupyter Server Link": [
+        "Partager le lien du serveur Jupyter"
+    ],
+    "They will be able to access this server AS YOU.": [
+        "Ils pourront acc\u00e9der \u00e0 ce serveur EN VOTRE NOM."
+    ],
+    "To revoke access, go to File -> Hub Control Panel, and restart your server.": [
+        "Pour r\u00e9voquer l'acc\u00e8s, allez dans Fichier -> Panneau de configuration Hub et red\u00e9marrez votre serveur."
+    ],
+    "Two collaborative sessions are accessing the file %1 simultaneously.\n                \nOpening a document with multiple views simultaneously is not supported. Please close one view; otherwise, you might lose some of your progress.": [
+        "Deux sessions collaboratives acc\u00e8dent simultan\u00e9ment au fichier %1 .\n                \nOuvrir un document avec des vues multiples simultan\u00e9ment n'est pas pris en charge. Veuillez fermer une vue; sinon, vous risquez de perdre une partie de vos modifications."
+    ],
+    "User info": [
+        "Informations utilisateur"
+    ],
+    "User information": [
+        "Informations de l'utilisateur"
+    ],
+    "Warning": [
+        "Avertissement"
+    ],
+    "schema\u0004Shared link": [
+        "Lien partag\u00e9"
+    ],
+    "schema\u0004Shared link settings": [
+        "Param\u00e8tres du lien partag\u00e9"
+    ],
+    "schema\u0004User Menu Bar": [
+        "Barre de menu utilisateur"
+    ],
+    "schema\u0004User Menu Bar settings.": [
+        "Param\u00e8tres de la barre de menu utilisateur."
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "": {
+        "domain": "jupyter_resource_usage",
+        "language": "fr-FR",
+        "plural_forms": "nplurals=2; plural=(n > 1);",
+        "version": "jupyterlab"
+    },
+    "%2%% used on %1 CPU": [
+        "%2%% utilis\u00e9 sur %1 processeur",
+        "%2%% utilis\u00e9 sur %1 processeurs"
+    ],
+    "Active:": [
+        "Actif :"
+    ],
+    "Available:": [
+        "Disponible\u00a0:"
+    ],
+    "CPU:": [
+        "Processeur :"
+    ],
+    "Current memory usage": [
+        "Utilisation actuelle de la m\u00e9moire"
+    ],
+    "Current resource usage": [
+        "Utilisation actuelle des ressources"
+    ],
+    "Detected IPyKernel version: %1": [
+        "Version de IPyKernel d\u00e9tect\u00e9e : %1"
+    ],
+    "Free:": [
+        "Libre\u00a0:"
+    ],
+    "Host CPU": [
+        "CPU de l'h\u00f4te"
+    ],
+    "Host Virtual Memory": [
+        "M\u00e9moire virtuelle de l'h\u00f4te"
+    ],
+    "Inactive:": [
+        "Inactif :"
+    ],
+    "Kernel Host:": [
+        "H\u00f4te du noyau :"
+    ],
+    "Kernel ID:": [
+        "Identifiant du noyau\u00a0:"
+    ],
+    "Kernel Resource": [
+        "Ressources du noyau"
+    ],
+    "Kernel Usage": [
+        "Utilisation du noyau"
+    ],
+    "Kernel usage": [
+        "Utilisation du noyau"
+    ],
+    "Kernel usage details are not available": [
+        "Les d\u00e9tails d'utilisation du noyau ne sont pas disponibles"
+    ],
+    "Kernel usage is missing": [
+        "L'utilisation du noyau est manquante"
+    ],
+    "Kernel usage is not available": [
+        "L'utilisation du noyau n'est pas disponible"
+    ],
+    "Kernel usage not available": [
+        "Utilisation du noyau non disponible"
+    ],
+    "Loading\u2026": [
+        "Chargement\u2026"
+    ],
+    "Mem: %1 %2": [
+        "M\u00e9m: %1 %2"
+    ],
+    "Mem: %1 / %2 %3": [
+        "M\u00e9m: %1 / %2 %3"
+    ],
+    "Memory:": [
+        "M\u00e9moire :"
+    ],
+    "No IPyKernel installation detected.": [
+        "Aucune installation de IPyKernel d\u00e9tect\u00e9e."
+    ],
+    "No active kernel found.": [
+        "Aucun noyau actif trouv\u00e9."
+    ],
+    "Notebook:": [
+        "Notebook :"
+    ],
+    "Percent used:": [
+        "Pourcentage utilis\u00e9 :"
+    ],
+    "Please check with your system administrator that you are running IPyKernel version 6.10.0 or above.": [
+        "Veuillez v\u00e9rifier aupr\u00e8s de votre administrateur syst\u00e8me que vous utilisez IPyKernel version 6.10.0 ou sup\u00e9rieure."
+    ],
+    "Process ID:": [
+        "ID du processus :"
+    ],
+    "Reason: %1.": [
+        "Raison\u00a0: %1."
+    ],
+    "Switch to a notebook or console to see kernel usage details.": [
+        "Basculez vers un notebook ou une console pour voir les d\u00e9tails d'utilisation du noyau."
+    ],
+    "Timed out in: %1 ms": [
+        "D\u00e9lai expir\u00e9 dans : %1 ms"
+    ],
+    "Timestamp:": [
+        "Date et heure :"
+    ],
+    "Total:": [
+        "Total :"
+    ],
+    "Usage data is missing": [
+        "Les donn\u00e9es d'utilisation sont manquantes"
+    ],
+    "Used:": [
+        "Utilis\u00e9 :"
+    ],
+    "Wired:": [
+        "Branch\u00e9 :"
+    ],
+    "schema\u0004Resource Usage Indicator": [
+        "Indicateur d'utilisation des ressources"
+    ],
+    "schema\u0004Resource Usage Indicator settings.": [
+        "Param\u00e8tres de l'indicateur d'utilisation des ressources."
+    ],
+    "settings\u0004CPU Settings": [
+        "Param\u00e8tres du CPU"
+    ],
+    "settings\u0004Enable resource usage indicators": [
+        "Activer les indicateurs d'utilisation des ressources"
+    ],
+    "settings\u0004Label for the cpu indicator": [
+        "\u00c9tiquette pour l'usage du processeur"
+    ],
+    "settings\u0004Label for the memory indicator": [
+        "\u00c9tiquette pour l'usage de la m\u00e9moire"
+    ],
+    "settings\u0004Memory Settings": [
+        "Param\u00e8tres m\u00e9moire"
+    ],
+    "settings\u0004Refresh Rate (ms)": [
+        "Taux de Rafra\u00eechissement (en ms)"
+    ],
+    "settings\u0004Refresh Rate to sync metrics data": [
+        "Taux de rafra\u00eechissement des donn\u00e9es d'usage"
+    ],
+    "settings\u0004Settings for the CPU indicator": [
+        "Param\u00e8tres pour l'indicateur du processeur"
+    ],
+    "settings\u0004Settings for the memory indicator": [
+        "Param\u00e8tres pour l'indicateur de la m\u00e9moire"
+    ],
+    "settings\u0004Whether to enable resource usage indicators on topbar": [
+        "Activer ou non les indicateurs d'utilisation des ressources sur la barre sup\u00e9rieure"
+    ]
+}

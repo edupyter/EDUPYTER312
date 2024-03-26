@@ -1,0 +1,329 @@
+{
+    "": {
+        "domain": "jupyterlab_tour",
+        "language": "fr-FR",
+        "plural_forms": "nplurals=2; plural=(n > 1);",
+        "version": "jupyterlab"
+    },
+    " It can be used to open the associated document or to shut them down.": [
+        " Il peut \u00eatre utilis\u00e9 pour ouvrir le document associ\u00e9 ou pour le fermer."
+    ],
+    ": Executable code": [
+        ": Code ex\u00e9cutable"
+    ],
+    ": Markdown formatted text": [
+        ": Texte au format Markdown"
+    ],
+    ": Plain text": [
+        ": Texte brut"
+    ],
+    ": a list of the open documents and activities": [
+        ": une liste des documents et activit\u00e9s ouverts"
+    ],
+    ": actions for managing kernels (i.e. separate processes for running code)": [
+        ": actions pour g\u00e9rer les noyaux (c'est-\u00e0-dire des processus s\u00e9par\u00e9s pour ex\u00e9cuter le code)"
+    ],
+    ": actions for running code in notebooks and code consoles for example": [
+        ": actions pour ex\u00e9cuter du code dans les notebooks et consoles de code par exemple"
+    ],
+    ": actions related to editing documents and other activities": [
+        ": actions li\u00e9es \u00e0 l'\u00e9dition de documents et d'autres activit\u00e9s"
+    ],
+    ": actions related to files and directories": [
+        ": actions li\u00e9es aux fichiers et r\u00e9pertoires"
+    ],
+    ": actions that alter the appearance of Jupyter Notebook": [
+        ": actions qui modifient l'apparence de Jupyter Notebook"
+    ],
+    ": actions that alter the appearance of JupyterLab": [
+        ": actions qui modifient l'apparence de JupyterLab"
+    ],
+    ": common settings and an advanced settings editor": [
+        ": param\u00e8tres communs et \u00e9diteur de param\u00e8tres avanc\u00e9s"
+    ],
+    ": common settings and an settings editor": [
+        ": param\u00e8tres communs et \u00e9diteur de param\u00e8tres"
+    ],
+    ": help links": [
+        ": liens d'aide"
+    ],
+    "A cell can have different type": [
+        "Une cellule peut avoir diff\u00e9rents types"
+    ],
+    "A cell has an input and an output area. This is the input area that you can edit with\n          the proper syntax depending on the type.": [
+        "Une cellule a une entr\u00e9e et des sorties. Ceci est la zone de saisie que vous pouvez \u00e9diter avec la syntaxe appropri\u00e9e en fonction du type."
+    ],
+    "Add a tour": [
+        "Ajouter un tour"
+    ],
+    "Add a tour and returns it.\nArguments {tour: ITour}\nReturns `null` if a failure occurs.": [
+        "Ajoute un tour et la renvoie .\nArguments {tour: ITour}\nRenvoie `null` en cas d'\u00e9chec."
+    ],
+    "All user actions in Jupyter Notebook are processed through a centralized\n                command system, called command palette. It provides a keyboard-driven\n                way to search for and run Jupyter Notebook commands.": [
+        "Toutes les actions de l'utilisateur dans Jupyter Notebook sont trait\u00e9es via un centre de commandes, appel\u00e9e palette de commandes. Il fournit un moyen de recherche et d'ex\u00e9cution des commandes Jupyter Notebook avec le clavier."
+    ],
+    "All user actions in JupyterLab are processed through a centralized\n            command system, called command palette. It provides a keyboard-driven\n            way to search for and run JupyterLab commands.": [
+        "Toutes les actions de l'utilisateur dans JupyterLab sont trait\u00e9es via un centre de commandes, appel\u00e9e palette de commandes. Il fournit un moyen de recherche et d'ex\u00e9cution des commandes JupyterLab avec le clavier."
+    ],
+    "Back": [
+        "Pr\u00e9c\u00e9dent"
+    ],
+    "Choose a tour": [
+        "Choisir un tour"
+    ],
+    "Close": [
+        "Fermer"
+    ],
+    "Code": [
+        "Code"
+    ],
+    "Command Palette": [
+        "Palette de commandes"
+    ],
+    "Don't show me again": [
+        "Ne plus me le montrer"
+    ],
+    "Done": [
+        "Termin\u00e9"
+    ],
+    "Drag a tab to the center of a tab panel to move the tab to the panel.": [
+        "Faites glisser un onglet au centre d'un onglet pour d\u00e9placer l'onglet vers le panneau."
+    ],
+    "Edit": [
+        "Modifier"
+    ],
+    "Error creating new tour. TourHandler id's must be unique.\nTutorial with the id: '%1' already exists.": [
+        "Erreur lors de la cr\u00e9ation d'un nouveau tour. L'id de TourHandler doit \u00eatre unique.\nTour avec l'id : '%1' existe d\u00e9j\u00e0."
+    ],
+    "Error encountered adding notebook tour %1 (%2)": [
+        "Une erreur s'est produite lors de l'ajout d'un tour utilisateur %1 (%2)"
+    ],
+    "Error encountered adding user tour %1 (%2)": [
+        "Une erreur s'est produite lors de l'ajout d'un tour utilisateur %1 (%2)"
+    ],
+    "Fail to add tour '%1' (%2)": [
+        "Impossible d'ajouter le tour '%1' (%2)"
+    ],
+    "File": [
+        "Fichier"
+    ],
+    "File Browser": [
+        "Navigateur de fichiers"
+    ],
+    "Help": [
+        "Aide"
+    ],
+    "Hitting the Play button (or pressing Shift+Enter) will execute the cell content.": [
+        "En appuyant sur le bouton Play (ou en appuyant sur Maj+Entr\u00e9e) vous ex\u00e9cuterez le contenu de la cellule."
+    ],
+    "Its name and its status are displayed here.": [
+        "Son nom et son statut sont affich\u00e9s ici."
+    ],
+    "Kernel": [
+        "Noyau"
+    ],
+    "Launch a Tour": [
+        "Lancer un tour"
+    ],
+    "Launch a tour.\nIf no id provided, prompt the user.\nArguments {id: Tour ID}": [
+        "Lancer un tour.\nSi aucun id n'est fourni, demander \u00e0 l'utilisateur d'en s\u00e9lectionner un.\nArguments {id: Tour ID}"
+    ],
+    "Left Side Bar": [
+        "Barre lat\u00e9rale gauche"
+    ],
+    "Main Work Area": [
+        "Zone de travail principale"
+    ],
+    "Markdown": [
+        "Markdown"
+    ],
+    "Metadata (like tags) can be added to cells through this tab.": [
+        "Les m\u00e9tadonn\u00e9es (comme les balises) peuvent \u00eatre ajout\u00e9es aux cellules \u00e0 travers cet onglet."
+    ],
+    "Next": [
+        "Suivant"
+    ],
+    "No Tours found in this Notebook": [
+        "Aucune visite dans ce Notebook"
+    ],
+    "Notebook Tour": [
+        "Tour du Notebook"
+    ],
+    "Notebook Tours": [
+        "Tours du Notebook"
+    ],
+    "Notebook consists of one cells list.": [
+        "Le notebook est constitu\u00e9 d'une liste de cellules."
+    ],
+    "Notebooks are documents combining live runnable code with narrative text (i.e. text, images,...).": [
+        "Les notebooks sont des documents qui combinent du code en direct et du texte narratif (par exemple des textes et des images)."
+    ],
+    "Noteboook Dashboard": [
+        "Tableau de bord"
+    ],
+    "Once a cell has been executed. Its result is display in the output cell area.": [
+        "Une fois une cellule ex\u00e9cut\u00e9e, son r\u00e9sultat est affich\u00e9 dans la zone des sorties de la cellule."
+    ],
+    "Open": [
+        "Ouvrir"
+    ],
+    "Pause the tour by clicking anywhere outside of the tooltip.": [
+        "Mettez le tour en pause en cliquant n'importe o\u00f9 en dehors de l'info-bulle."
+    ],
+    "Raw": [
+        "Brut"
+    ],
+    "Resume the tour by clicking on the symbol:": [
+        "Reprenez le tour en cliquant sur le symbole :"
+    ],
+    "Run": [
+        "Ex\u00e9cuter"
+    ],
+    "Run all Tours": [
+        "Lancer tous les tours"
+    ],
+    "Settings": [
+        "Param\u00e8tres"
+    ],
+    "Skip": [
+        "Ignorer"
+    ],
+    "Some information on the tour, first.": [
+        "Quelques informations sur le tour, tout d'abord."
+    ],
+    "Start a Notebook Tour": [
+        "D\u00e9marrer le tour du notebook"
+    ],
+    "Start now": [
+        "D\u00e9marrer maintenant"
+    ],
+    "Status Bar": [
+        "Barre de statut"
+    ],
+    "Subdivide a tab panel by dragging a tab to the left, right, top, or bottom of the panel.": [
+        "Subdivisez un panneau d'onglets en faisant glisser un onglet vers la gauche, la droite, le haut ou le bas du panneau."
+    ],
+    "Tabs": [
+        "Onglets"
+    ],
+    "The file browser enable you to work with files and directories on your\n                system. This includes opening, creating, deleting, renaming,\n                downloading, copying, and sharing files and directories.": [
+        "Le navigateur de fichiers vous permet de travailler avec des fichiers et des dossiers de votre syst\u00e8me. Cela inclut l'ouverture, la cr\u00e9ation, la suppression, le renommage, le t\u00e9l\u00e9chargement, la copie et le partage de fichiers et r\u00e9pertoires."
+    ],
+    "The file browser enable you to work with files and directories on your\n            system. This includes opening, creating, deleting, renaming,\n            downloading, copying, and sharing files and directories.": [
+        "Le navigateur de fichiers vous permet de travailler avec des fichiers et des dossiers de votre syst\u00e8me. Cela inclut l'ouverture, la cr\u00e9ation, la suppression, le renommage, le t\u00e9l\u00e9chargement, la copie et le partage de fichiers et r\u00e9pertoires."
+    ],
+    "The following tour will point out some of the main UI components within Jupyter Notebook.": [
+        "Le tour suivant indiquera certains des principaux composants de l'interface utilisateur de Jupyter Notebook."
+    ],
+    "The following tour will point out some of the main UI components within JupyterLab.": [
+        "Le tour suivant indiquera certains des principaux composants de l'interface utilisateur de JupyterLab."
+    ],
+    "The main area enables you to arrange documents and activities into\n            panels of tabs that can be resized or subdivided.": [
+        "La zone principale vous permet d'organiser des documents et des activit\u00e9s en panneaux\n            d'onglets qui peuvent \u00eatre redimensionn\u00e9s ou subdivis\u00e9s."
+    ],
+    "The notebook dashboard enables you to arrange documents and monitor running kernels.": [
+        "Le tableau de bord vous permet d'organiser des documents et de surveiller l'ex\u00e9cution des noyaux."
+    ],
+    "The running kernels are listed on this tab.": [
+        "Les noyaux en cours d'ex\u00e9cution sont list\u00e9s dans cet onglet."
+    ],
+    "The tab for the current activity is marked with a colored top border.": [
+        "L'onglet de l'activit\u00e9 en cours est marqu\u00e9 avec une bordure sup\u00e9rieure color\u00e9e."
+    ],
+    "This is the first cell.": [
+        "Ceci est la premi\u00e8re cellule."
+    ],
+    "This is the top menu bar where you can access several menus.": [
+        "C'est la barre de menu sup\u00e9rieure o\u00f9 vous pouvez acc\u00e9der \u00e0 plusieurs menus."
+    ],
+    "This sidebar contains a number of tabs: a file browser, a list of tabs, running kernels and terminals,...": [
+        "Cette barre lat\u00e9rale contient plusieurs onglets : un navigateur de fichiers, une liste d'onglets, des noyaux et des terminaux,..."
+    ],
+    "This tab panel contains a number of tabs: a file browser, a list of running kernels and terminals,...": [
+        "Cette page contient plusieurs onglets : un navigateur de fichiers, une liste des noyaux et des terminaux,..."
+    ],
+    "Tip: Actions can be triggered through the context menu.": [
+        "Astuce : les actions peuvent \u00eatre d\u00e9clench\u00e9es via le menu contextuel."
+    ],
+    "Tip: The sidebar can be collapsed or expanded by selecting\n              \"Show Left Sidebar\" in the View menu or by\n              clicking on the active sidebar tab.": [
+        "Astuce: La barre lat\u00e9rale peut \u00eatre r\u00e9duite ou \u00e9tendue en s\u00e9lectionnant \"Afficher la barre lat\u00e9rale de gauche\" dans le menu Affichage ou en cliquant sur l'onglet actif."
+    ],
+    "Tip: To open it, the default shortcut is \"Ctrl + Shift + C\"": [
+        "Astuce : pour l'ouvrir, le raccourci par d\u00e9faut est \"Ctrl + Shift + C\""
+    ],
+    "Tip: Tours can be restarted from the Help menu.": [
+        "Astuce : Les visites peuvent \u00eatre red\u00e9marr\u00e9es \u00e0 partir du menu Aide."
+    ],
+    "Top Menu Options": [
+        "Options du menu principal"
+    ],
+    "Tour metadata is not valid: see the browser console!": [
+        "Les m\u00e9tadonn\u00e9es du tour ne sont pas valides : consultez la console du navigateur !"
+    ],
+    "Try the %1.": [
+        "Essayez le %1."
+    ],
+    "Validation errors found: fix them in Advanced Settings": [
+        "Erreurs lors de la validation des param\u00e8tres : corrigez-les dans les param\u00e8tres avanc\u00e9s"
+    ],
+    "Various information are reported on the status bar.": [
+        "Diverses informations sont rapport\u00e9es dans la barre de statut."
+    ],
+    "View": [
+        "Affichage"
+    ],
+    "Welcome Tour": [
+        "Tour de bienvenue"
+    ],
+    "Welcome to Jupyter Notebook!": [
+        "Bienvenue dans Jupyter Notebook !"
+    ],
+    "Welcome to JupyterLab!": [
+        "Bienvenue dans JupyterLab!"
+    ],
+    "When executing a \"Code\" cell, its code is sent to a execution kernel.": [
+        "Lorsque vous ex\u00e9cutez une cellule \"Code\", son code est envoy\u00e9 \u00e0 un noyau d'ex\u00e9cution."
+    ],
+    "Working with notebooks!": [
+        "Travailler avec des notebooks!"
+    ],
+    "schema\u0004Configuration for user-defined tours. This schema is generated from https://github.com/gilbarbara/react-joyride/blob/master/types/index.d.ts": [
+        "Configuration pour les tours d\u00e9finis par l'utilisateur. Ce sch\u00e9ma est g\u00e9n\u00e9r\u00e9 \u00e0 partir de https://github.com/gilbarbara/react-joyride/blob/master/types/index.d.ts"
+    ],
+    "schema\u0004Tours": [
+        "Tours"
+    ],
+    "settings\u0004A human-readable name for the tour": [
+        "Un nom lisible par l'homme pour le tour"
+    ],
+    "settings\u0004A machine-readable ID to identify this tour, will be prefixed. Should be unique within this document.": [
+        "Un identifiant lisible par la machine pour identifier ce tour sera pr\u00e9fix\u00e9. Doit \u00eatre unique dans ce document."
+    ],
+    "settings\u0004An array of a tours. Each requires an `id`, `label` and `steps[]`, and may have `options`, see https://docs.react-joyride.com": [
+        "Un tableau de tours. Chacun n\u00e9cessite un `id`, un `label` et des `steps[]`, et peut avoir des `options`, se r\u00e9f\u00e9rer \u00e0 https://docs.react-joyride.com"
+    ],
+    "settings\u0004Other options for the tour": [
+        "Autres options pour le tour"
+    ],
+    "settings\u0004The definition of the steps of a tour": [
+        "D\u00e9finition des \u00e9tapes d'un tour"
+    ],
+    "settings\u0004The name of an already-registered LabIcon to display next to this tour": [
+        "Le nom d'une ic\u00f4ne d\u00e9j\u00e0 enregistr\u00e9e \u00e0 afficher \u00e0 c\u00f4t\u00e9 de ce tour"
+    ],
+    "settings\u0004The tour version": [
+        "La version du tour"
+    ],
+    "settings\u0004The tour version (prefer calendar versioning YYYYMMDD) to determine if an user should see it again or not.": [
+        "La version du tour (pr\u00e9f\u00e9rez la version au format calendrier AAAMMDD) pour d\u00e9terminer si un utilisateur doit le revoir ou non."
+    ],
+    "settings\u0004Tours": [
+        "Tours"
+    ],
+    "settings\u0004Translation domain containing strings for this tour": [
+        "Domaine de traduction contenant les cha\u00eenes de caract\u00e8res de ce tour"
+    ],
+    "settings\u0004Whether to add a Help Menu item with the label to launch the tour": [
+        "Si vous souhaitez ajouter un \u00e9l\u00e9ment au menu Aide avec l'\u00e9tiquette pour lancer le tour"
+    ]
+}

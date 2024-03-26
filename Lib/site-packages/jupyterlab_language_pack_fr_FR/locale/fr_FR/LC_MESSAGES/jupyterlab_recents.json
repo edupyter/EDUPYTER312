@@ -1,0 +1,35 @@
+{
+    "": {
+        "domain": "jupyterlab_recents",
+        "language": "fr-FR",
+        "plural_forms": "nplurals=2; plural=(n > 1);",
+        "version": "jupyterlab"
+    },
+    "Clear Recents": [
+        "Effacer les \u00e9l\u00e9ments r\u00e9cents"
+    ],
+    "Clear the list of recently opened items.": [
+        "Effacer la liste des \u00e9l\u00e9ments r\u00e9cemment ouverts."
+    ],
+    "Recents": [
+        "\u00c9l\u00e9ments r\u00e9cents"
+    ],
+    "schema\u0004JupyterLab Recents settings.": [
+        "Param\u00e8tres de jupyterlab-recents."
+    ],
+    "schema\u0004Recent Files": [
+        "Fichiers r\u00e9cents"
+    ],
+    "settings\u0004Number of items to store in the recent list.": [
+        "Nombre d'\u00e9l\u00e9ments \u00e0 stocker dans la liste des \u00e9l\u00e9ments r\u00e9cents."
+    ],
+    "settings\u0004Poll frequency in seconds to check the recent item list. Set to 0 to deactivate; in that case it will refresh the list when the menu is displayed.": [
+        "Fr\u00e9quence de rafra\u00eechissement en secondes pour v\u00e9rifier la liste des \u00e9l\u00e9ments r\u00e9cents. Mettre \u00e0 0 pour d\u00e9sactiver; dans ce cas, la liste sera actualis\u00e9e lorsque le menu sera affich\u00e9."
+    ],
+    "settings\u0004Poll frequency to check the recent item list": [
+        "Fr\u00e9quence de rafra\u00eechissement pour v\u00e9rifier la liste des \u00e9l\u00e9ments r\u00e9cents"
+    ],
+    "settings\u0004Recent item list length": [
+        "Longueur de la liste des \u00e9l\u00e9ments r\u00e9cents"
+    ]
+}

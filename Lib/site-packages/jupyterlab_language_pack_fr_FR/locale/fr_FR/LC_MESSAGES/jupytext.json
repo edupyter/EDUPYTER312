@@ -1,0 +1,113 @@
+{
+    "": {
+        "domain": "jupytext",
+        "language": "fr-FR",
+        "plural_forms": "nplurals=2; plural=(n > 1);",
+        "version": "jupyterlab"
+    },
+    "Custom pairing": [
+        "Association personnalis\u00e9e"
+    ],
+    "Error": [
+        "Erreur"
+    ],
+    "Include Metadata": [
+        "Inclure les m\u00e9tadonn\u00e9es"
+    ],
+    "Jupytext": [
+        "Jupytext"
+    ],
+    "Jupytext FAQ": [
+        "FAQ Jupytext"
+    ],
+    "Jupytext Notebook": [
+        "Jupytext Notebook"
+    ],
+    "Jupytext Reference": [
+        "R\u00e9f\u00e9rence Jupytext"
+    ],
+    "Markdown File": [
+        "Fichier Markdown"
+    ],
+    "MyST Markdown Notebook": [
+        "Notebook MyST Markdown"
+    ],
+    "New Text Notebook": [
+        "Nouveau Jupyter Notebook"
+    ],
+    "Pair Notebook with Hydrogen Script": [
+        "Associer le notebook \u00e0 un script Hydrogen"
+    ],
+    "Pair Notebook with Markdown": [
+        "Associer le notebook \u00e0 un fichier Markdown"
+    ],
+    "Pair Notebook with MyST Markdown": [
+        "Associer le notebook \u00e0 un fichier MyST Markdown"
+    ],
+    "Pair Notebook with Quarto (qmd)": [
+        "Associer le notebook \u00e0 un fichier Quarto (qmd)"
+    ],
+    "Pair Notebook with R Markdown": [
+        "Associer le notebook \u00e0 un fichier R Markdown"
+    ],
+    "Pair Notebook with ipynb document": [
+        "Associer le notebook \u00e0 un document ipynb"
+    ],
+    "Pair Notebook with light Script": [
+        "Associer le notebook \u00e0 un script light"
+    ],
+    "Pair Notebook with nomarker Script": [
+        "Associer le notebook \u00e0 un script sans marqueur"
+    ],
+    "Pair Notebook with percent Script": [
+        "Associer le notebook \u00e0 un script avec %"
+    ],
+    "Pair notebook": [
+        "Associer le notebook"
+    ],
+    "Please edit the notebook metadata directly if you wish a custom configuration.": [
+        "Veuillez modifier les m\u00e9tadonn\u00e9es du notebook directement si vous souhaitez une configuration personnalis\u00e9e."
+    ],
+    "Quarto Notebook": [
+        "Notebook Quarto"
+    ],
+    "R Markdown Notebook": [
+        "Notebook R Markdown"
+    ],
+    "Unpair Notebook": [
+        "Dissocier le notebook"
+    ],
+    "schema\u0004Jupytext": [
+        "Jupytext"
+    ],
+    "schema\u0004List of Jupytext Text Notebook formats that will be added to launcher and jupytext menu.": [
+        "Liste des formats Jupytext Notebook qui seront ajout\u00e9s au launcher et au menu Jupytext."
+    ],
+    "settings\u0004Markdown Notebook": [
+        "Notebook Markdown"
+    ],
+    "settings\u0004MyST Markdown Notebook": [
+        "Notebook MyST Markdown"
+    ],
+    "settings\u0004Quarto Markdown Notebook": [
+        "Notebook Quarto Markdown"
+    ],
+    "settings\u0004R Markdown Notebook": [
+        "Notebook R Markdown"
+    ],
+    "settings\u0004Refresh the current browser tab for the changes to take effect.": [
+        "Rafra\u00eechissez l'onglet actuel du navigateur pour que les modifications prennent effet."
+    ],
+    "settings\u0004Text Notebook as Script in Hydrogen Format": [
+        "Notebook en tant que script au format Hydrogen"
+    ],
+    "settings\u0004Text Notebook as Script in Light Format": [
+        "Notebook en tant que script au format Light"
+    ],
+    "settings\u0004Text Notebook as Script in Nomarker Format": [
+        "Notebook en tant que script au format Nomarker"
+    ],
+    "settings\u0004Text Notebook as Script in Percent Format": [
+        "Notebook en tant que script au format Percent"
+    ]
+}

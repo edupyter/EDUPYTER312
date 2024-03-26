@@ -1,0 +1,260 @@
+{
+    "": {
+        "domain": "notebook",
+        "language": "fr-FR",
+        "plural_forms": "nplurals=2; plural=(n > 1);",
+        "version": "jupyterlab"
+    },
+    "About %1": [
+        "\u00c0 propos de %1"
+    ],
+    "Advanced Tools": [
+        "Outils avanc\u00e9s"
+    ],
+    "Are you sure you want to exit Jupyter Notebook?\n\nAny unsaved changes will be lost.": [
+        "\u00cates-vous s\u00fbr de vouloir quitter Jupyter Notebook ?\n\nToutes les modifications non enregistr\u00e9es seront perdues."
+    ],
+    "CONTRIBUTOR LIST": [
+        "LISTE DES CONTRIBUTEURS"
+    ],
+    "Close and Shut Down Notebook": [
+        "Fermer et arr\u00eater le notebook"
+    ],
+    "Collapse %1 side panel": [
+        "R\u00e9duire le panneau lat\u00e9ral %1"
+    ],
+    "Dismiss": [
+        "Ignorer"
+    ],
+    "Edit Notebook Metadata": [
+        "Editer les m\u00e9tadonn\u00e9es du notebook"
+    ],
+    "File Browser": [
+        "Navigateur de fichiers"
+    ],
+    "File Browser Section": [
+        "Section du navigateur de fichiers"
+    ],
+    "Files": [
+        "Fichiers"
+    ],
+    "Filter files by name": [
+        "Filtrer les fichiers par nom"
+    ],
+    "Handle Local Link": [
+        "G\u00e9rer le lien local"
+    ],
+    "Help": [
+        "Aide"
+    ],
+    "JUPYTER NOTEBOOK ON GITHUB": [
+        "JUPYTER NOTEBOOK SUR GITHUB"
+    ],
+    "JavaScript disabled for notebook display": [
+        "JavaScript d\u00e9sactiv\u00e9 pour l'affichage des notebooks"
+    ],
+    "JavaScript enabled for notebook display": [
+        "JavaScript activ\u00e9 pour l'affichage des notebooks"
+    ],
+    "JupyterLab": [
+        "JupyterLab"
+    ],
+    "Last Checkpoint: %1": [
+        "Dernier point de contr\u00f4le : %1"
+    ],
+    "Launch Jupyter Notebook File Browser": [
+        "Ouvrir le navigateur de fichiers Jupyter Notebook"
+    ],
+    "Left Sidebar": [
+        "Barre lat\u00e9rale gauche"
+    ],
+    "NbClassic": [
+        "NbClassic"
+    ],
+    "New": [
+        "Nouveau"
+    ],
+    "Not Trusted": [
+        "Non fiable"
+    ],
+    "Notebook": [
+        "Notebook"
+    ],
+    "Open JupyterLab": [
+        "Ouvrir JupyterLab"
+    ],
+    "Open in %1": [
+        "Ouvrir dans %1"
+    ],
+    "Open in...": [
+        "Ouvrir dans..."
+    ],
+    "Rename\u2026": [
+        "Renommer\u2026"
+    ],
+    "Right Sidebar": [
+        "Barre lat\u00e9rale droite"
+    ],
+    "Running": [
+        "En cours"
+    ],
+    "Select items to perform actions on them.": [
+        "S\u00e9lectionnez les \u00e9l\u00e9ments sur lesquels effectuer des actions."
+    ],
+    "Show %1 in the left sidebar": [
+        "Afficher %1 dans la barre lat\u00e9rale de gauche"
+    ],
+    "Show %1 in the right sidebar": [
+        "Afficher %1 dans la barre lat\u00e9rale de droite"
+    ],
+    "Show %1 in the sidebar": [
+        "Afficher %1 dans la barre lat\u00e9rale"
+    ],
+    "Show Header": [
+        "Afficher l'en-t\u00eate"
+    ],
+    "Toggle Zen Mode": [
+        "Activer/d\u00e9sactiver le mode Zen"
+    ],
+    "Trusted": [
+        "Fiable"
+    ],
+    "Upload": [
+        "Importer"
+    ],
+    "Version: %1": [
+        "Version : %1"
+    ],
+    "menu\u0004Cell Type": [
+        "Type de cellule"
+    ],
+    "schema\u0004File Browser Widget": [
+        "Navigateur de fichiers"
+    ],
+    "schema\u0004File Browser Widget - File Actions": [
+        "Navigateur de fichiers - Actions de fichiers"
+    ],
+    "schema\u0004File Browser widget - File Actions settings.": [
+        "Navigateur de fichiers - Param\u00e8tres des actions de fichiers."
+    ],
+    "schema\u0004File Browser widget settings.": [
+        "Param\u00e8tres du navigateur de fichiers."
+    ],
+    "schema\u0004Interface Switcher": [
+        "S\u00e9lecteur d'interface"
+    ],
+    "schema\u0004Interface Switcher settings.": [
+        "Param\u00e8tres du s\u00e9lecteur d'interface."
+    ],
+    "schema\u0004Jupyter Notebook Help Menu Entries": [
+        "Entr\u00e9es du menu aide de Jupyter Notebook"
+    ],
+    "schema\u0004Jupyter Notebook Menu Entries": [
+        "Entr\u00e9es du menu de Jupyter Notebook"
+    ],
+    "schema\u0004Jupyter Notebook Notebook": [
+        "Notebooks de Jupyter Notebook"
+    ],
+    "schema\u0004Jupyter Notebook Notebook settings": [
+        "Param\u00e8tres des notebooks de Jupyter Notebook"
+    ],
+    "schema\u0004Jupyter Notebook Pages": [
+        "Pages du Jupyter Notebook"
+    ],
+    "schema\u0004Jupyter Notebook Top Area": [
+        "Zone sup\u00e9rieure de Jupyter Notebook"
+    ],
+    "schema\u0004Jupyter Notebook Top Area settings": [
+        "Param\u00e8tres de la zone sup\u00e9rieure de Jupyter Notebook"
+    ],
+    "schema\u0004Jupyter Notebook Zen Mode": [
+        "Mode Zen de Jupyter Notebook"
+    ],
+    "schema\u0004Kernel logo": [
+        "Logo du noyau"
+    ],
+    "schema\u0004Kernel logo in the top area": [
+        "Logo du noyau dans la zone sup\u00e9rieure"
+    ],
+    "schema\u0004Launch Shortcuts": [
+        "Ouvrir les raccourcis"
+    ],
+    "schema\u0004Launch Shortcuts.": [
+        "Ouvrir les raccourcis."
+    ],
+    "schema\u0004Notebook Shell": [
+        "Disposition de l'application"
+    ],
+    "schema\u0004Notebook Shell layout settings.": [
+        "Param\u00e8tres de mise en page de Notebook."
+    ],
+    "schema\u0004Notebook checkpoint indicator": [
+        "Indicateur de point de contr\u00f4le du notebook"
+    ],
+    "schema\u0004Title widget": [
+        "Widget de titre"
+    ],
+    "settings\u0004Auto Scroll Outputs": [
+        "D\u00e9filement automatique des sorties de cellules"
+    ],
+    "settings\u0004Command arguments": [
+        "Arguments de la commande"
+    ],
+    "settings\u0004Command id": [
+        "Identifiant de la commande"
+    ],
+    "settings\u0004Customize shell widget positioning": [
+        "Personnaliser le positionnement des widgets"
+    ],
+    "settings\u0004File browser toolbar items": [
+        "\u00c9l\u00e9ments de la barre d'outils du navigateur de fichiers"
+    ],
+    "settings\u0004If defined, it will override the command icon": [
+        "Si d\u00e9fini, cela remplacera l'ic\u00f4ne de commande"
+    ],
+    "settings\u0004If defined, it will override the command label": [
+        "Si d\u00e9fini, cela remplacera le libell\u00e9 de la commande"
+    ],
+    "settings\u0004Item icon id": [
+        "Identifiant de l'ic\u00f4ne"
+    ],
+    "settings\u0004Item label": [
+        "Libell\u00e9 de l'\u00e9l\u00e9ment"
+    ],
+    "settings\u0004Item rank": [
+        "Priorit\u00e9 de l'\u00e9l\u00e9ment"
+    ],
+    "settings\u0004Item type": [
+        "Type d'\u00e9l\u00e9ment"
+    ],
+    "settings\u0004Jupyter Notebook Notebook": [
+        "Notebooks de Jupyter Notebook"
+    ],
+    "settings\u0004Jupyter Notebook Top Area": [
+        "Zone sup\u00e9rieure de Jupyter Notebook"
+    ],
+    "settings\u0004Note: To disable a toolbar item,\ncopy it to User Preferences and add the\n\"disabled\" key. The following example will disable the uploader button:\n{\n  \"toolbar\": [\n    {\n      \"name\": \"uploader\",\n      \"disabled\": true\n    }\n  ]\n}\n\nToolbar description:": [
+        "Remarque : Pour d\u00e9sactiver un \u00e9l\u00e9ment de la barre d'outils,\ncopiez-le dans les pr\u00e9f\u00e9rences utilisateur et ajoutez l'attribut\n\"disabled\". L'exemple suivant d\u00e9sactivera le bouton pour envoyer un fichier:\n{\n  \"toolbar\": [\n    {\n      \"name\": \"uploader\",\n      \"disabled\": true\n    }\n  ]\n}\n\nDescription de la barre d'outils :"
+    ],
+    "settings\u0004Overrides default widget position in the application layout": [
+        "Remplace la position par d\u00e9faut du widget dans la disposition de l'application"
+    ],
+    "settings\u0004Top Bar Visibility": [
+        "Visibilit\u00e9 de la barre sup\u00e9rieure"
+    ],
+    "settings\u0004Unique name": [
+        "Nom unique"
+    ],
+    "settings\u0004Whether the item is ignored or not": [
+        "Si l'\u00e9l\u00e9ment est ignor\u00e9 ou non"
+    ],
+    "settings\u0004Whether to auto scroll the output area when the outputs become too long": [
+        "Activer le d\u00e9filement automatique de la zone de sortie quand les sorties deviennent trop longues"
+    ],
+    "settings\u0004Whether to show the top bar or not, yes for always showing, no for always not showing, automatic for adjusting to screen size": [
+        "Si vous voulez afficher la barre sup\u00e9rieure ou non, 'yes' pour toujours la montrer, 'no' pour toujours la cacher, 'automatic' pour ajuster la visibilit\u00e9 selon la taille de l'\u00e9cran"
+    ],
+    "\u00a9 2021-2023 Jupyter Notebook Contributors": [
+        "\u00a9\ufe0f 2021-2023 Jupyter Notebook Contributeurs"
+    ]
+}
